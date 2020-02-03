@@ -1,0 +1,11 @@
+EXEC InsertNewDriver @FirstName = 'Richard', @LastName = 'Petty', @CupWins = 200, @CupChampionships = 7;
+EXEC InsertNewDriver @FirstName = 'David', @LastName = 'Pearson', @CupWins = 105, @CupChampionships = 3;
+EXEC InsertNewDriver @FirstName = 'Jeff', @LastName = 'Gordon', @CupWins = 93, @CupChampionships = 4;
+EXEC InsertNewDriver @FirstName = 'Darrell', @LastName = 'Waltrip', @CupWins = 84, @CupChampionships = 3;
+EXEC InsertNewDriver @FirstName = 'Bobby', @LastName = 'Allison', @CupWins = 84, @CupChampionships = 1;
+EXEC InsertNewDriver @FirstName = 'Jimmie', @LastName = 'Johnson', @CupWins = 83, @CupChampionships = 7;
+EXEC InsertNewDriver @FirstName = 'Cale', @LastName = 'Yarborough', @CupWins = 83, @CupChampionships = 3;
+EXEC InsertNewDriver @FirstName = 'Dale', @LastName = 'Earnhardt', @CupWins = 76, @CupChampionships = 7;
+EXEC InsertNewDriver @FirstName = 'Kyle', @LastName = 'Busch', @CupWins = 56, @CupChampionships = 2;
+EXEC InsertNewDriver @FirstName = 'Rusty', @LastName = 'Wallace', @CupWins = 55, @CupChampionships = 1;
+EXEC InsertNewDriver @FirstName = 'Lee', @LastName = 'Petty', @CupWins = 54, @CupChampionships = 3;
